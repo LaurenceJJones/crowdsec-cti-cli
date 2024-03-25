@@ -11,7 +11,7 @@ Branches:
 
 We will be using the `dev` branch for development and the `main` branch for the completed codebase.
 
-To start the workshop, please fork this repository and clone it to your local machine.
+To start the workshop, please fork this repository (**Remember to untick main branch only**) and clone it to your local machine.
 
 ```bash
 git clone <your-forked-repo-url>
